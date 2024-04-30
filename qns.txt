@@ -1,0 +1,10 @@
+Questions for Q&a
+1. do we need tailwind css as a dev-depency?
+2. using the method we used to install tailwind, you will need to call output/css for every file
+are we supposed to work like that.
+3. my tailwind intellescence is not working
+4. is vite supposed to be used with plain html , it could used with vanilla JS 
+
+1. npx tailwindcss init
+2. npm install -D tailwindcss postcss autoprefixer vite
+3. npx tailwindcss init -p
